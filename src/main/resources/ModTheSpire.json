@@ -1,0 +1,13 @@
+{
+  "modid": "SB_Demo",
+  "name": "SB_Demo",
+  "author_list": [
+    "DwarfStar"
+  ],
+  "description": "Adds SB as a new playable character.",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "0.0.1",
+  "sts_version": "05-09-2022"
+}

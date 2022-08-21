@@ -1,0 +1,9 @@
+{
+  "cLanguageProgramBegin": {
+    "NAME": "C语言入门",
+    "FLAVOR": "从入门到入土，能在控制台输出Hello world就算成功",
+    "DESCRIPTIONS": [
+      "每打出两张技能牌，获得3点格挡"
+    ]
+  }
+}

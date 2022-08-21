@@ -1,0 +1,10 @@
+{
+  "myModID:SB_oneChe": {
+    "NAME": "一个车",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "myModID:SB_oneMi": {
+    "NAME": "一个米",
+    "DESCRIPTION": "获得 !M! 金币。"
+  }
+}
